@@ -1,4 +1,4 @@
-# Email Verification API (Spring Boot)
+# Email Verification REST API (Spring Boot)
 
 A REST API built using **Spring Boot**, **Spring Data JPA**, and **JavaMailSender** that allows users to register and verify their email using a verification link.
 
